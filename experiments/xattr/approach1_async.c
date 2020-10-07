@@ -197,6 +197,10 @@ static int setAttr()
 	return rc;
 }
 
+static kool() {
+
+}
+
 static int delAttr()
 {
 	char *k1 = "1name_of_key";
