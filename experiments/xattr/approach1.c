@@ -122,6 +122,10 @@ out:
 	return rc;
 }
 
+test (void) {
+
+}
+
 int delete_batch(char *k1, char *ino)
 {
 	struct cortxfs_xattr *xkey[CNT];
